@@ -20,5 +20,9 @@
   "homepage": "https://github.com/akshitone/React-Project#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "react-app": "^1.1.2"
   }
 }
